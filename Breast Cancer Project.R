@@ -2,7 +2,7 @@ library(tidyverse)
 library(caret)
 
 #Set filepath and read data
-filepath = file.path("D:/R Projects/Infarction project")
+filepath = file.path("D:/R Projects/Breast Cancer Project")
 Data <- read.csv("data.csv")
 
 #Create separate matrix for means
