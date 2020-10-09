@@ -1,6 +1,6 @@
 # Breast-Cancer-ML-Project
 
-This is my first Machine Learning project. It consists of predicting the diagnosis (either benign or malignant) based on the parameters from digitized images of cancerous cell nuclei.
+This is my first Machine Learning project. It consists of predicting breast cancer diagnosis (either benign or malignant) based on the parameters from digitized images of cancerous cell nuclei.
 
 I have used three ML models: k-NN, Random forest and Gradient boosting, followed by a voting system to choose the final prediction for the test set in order to predict the diagnosis.
 
